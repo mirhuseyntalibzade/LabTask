@@ -1,0 +1,14 @@
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\bin\Debug\net8.0\Resize Method.exe
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\bin\Debug\net8.0\Resize Method.deps.json
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\bin\Debug\net8.0\Resize Method.runtimeconfig.json
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\bin\Debug\net8.0\Resize Method.dll
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\bin\Debug\net8.0\Resize Method.pdb
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\Resize Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\Resize Method.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\Resize Method.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\Resize Method.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\Resize Method.dll
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\refint\Resize Method.dll
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\Resize Method.pdb
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\Resize Method.genruntimeconfig.cache
+C:\Users\My Computer\source\repos\Resize Method\Resize Method\obj\Debug\net8.0\ref\Resize Method.dll
