@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1251F89-2D2A-46AB-AF5E-5018A97CC2B2}|Employee Project\\Employee Project.csproj|c:\\users\\my computer\\source\\repos\\employee project\\employee project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1251F89-2D2A-46AB-AF5E-5018A97CC2B2}|Employee Project\\Employee Project.csproj|solutionrelative:employee project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1251F89-2D2A-46AB-AF5E-5018A97CC2B2}|Employee Project\\Employee Project.csproj|c:\\users\\my computer\\source\\repos\\employee project\\employee project\\model\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1251F89-2D2A-46AB-AF5E-5018A97CC2B2}|Employee Project\\Employee Project.csproj|solutionrelative:employee project\\model\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1251F89-2D2A-46AB-AF5E-5018A97CC2B2}|Employee Project\\Employee Project.csproj|c:\\users\\my computer\\source\\repos\\employee project\\employee project\\model\\salariedempolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1251F89-2D2A-46AB-AF5E-5018A97CC2B2}|Employee Project\\Employee Project.csproj|solutionrelative:employee project\\model\\salariedempolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1251F89-2D2A-46AB-AF5E-5018A97CC2B2}|Employee Project\\Employee Project.csproj|c:\\users\\my computer\\source\\repos\\employee project\\employee project\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1251F89-2D2A-46AB-AF5E-5018A97CC2B2}|Employee Project\\Employee Project.csproj|solutionrelative:employee project\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\Employee Project\\Model\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "Employee Project\\Model\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\Employee Project\\Model\\HourlyEmployee.cs",
+              "RelativeToolTip": "Employee Project\\Model\\HourlyEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:14:20.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalariedEmpolyee.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\Employee Project\\Model\\SalariedEmpolyee.cs",
+              "RelativeDocumentMoniker": "Employee Project\\Model\\SalariedEmpolyee.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\Employee Project\\Model\\SalariedEmpolyee.cs",
+              "RelativeToolTip": "Employee Project\\Model\\SalariedEmpolyee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:13:57.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\Employee Project\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee Project\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\Employee Project\\Model\\Employee.cs",
+              "RelativeToolTip": "Employee Project\\Model\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:13:38.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\Employee Project\\Program.cs",
+              "RelativeDocumentMoniker": "Employee Project\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Employee Project\\Employee Project\\Program.cs",
+              "RelativeToolTip": "Employee Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:12:30.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
