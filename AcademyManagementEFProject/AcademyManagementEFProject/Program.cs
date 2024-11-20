@@ -1,5 +1,6 @@
 ﻿using AcademyManagementEFProject.Contexts;
 using AcademyManagementEFProject.Models;
+using AcademyManagementEFProject.Services.Abstractions;
 using AcademyManagementEFProject.Services.Concretes;
 using Microsoft.EntityFrameworkCore;
 
@@ -22,10 +23,9 @@ namespace AcademyDB_EF_Core
                 isDeleted: false
             );
 
-            //StudentService studentService = new();
+            IStudentService studentService = new StudentService();
 
-            //studentService.CreateStudent(student);
-
+            studentService.UpdateStudent(1,student);
 
         }
     }

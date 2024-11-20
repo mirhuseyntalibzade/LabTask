@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\my computer\\source\\repos\\academymanagementefproject\\academymanagementefproject\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\my computer\\source\\repos\\academymanagementefproject\\academymanagementefproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\my computer\\source\\repos\\academymanagementefproject\\academymanagementefproject\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\my computer\\source\\repos\\academymanagementefproject\\academymanagementefproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\my computer\\source\\repos\\academymanagementefproject\\academymanagementefproject\\helpers\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\my computer\\source\\repos\\academymanagementefproject\\academymanagementefproject\\contexts\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\contexts\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\my computer\\source\\repos\\academymanagementefproject\\academymanagementefproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D78CF81-7252-4BD5-8898-47E43F8BEBB3}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\my computer\\source\\repos\\academymanagementefproject\\academymanagementefproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SqlHelper.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Helpers\\SqlHelper.cs",
               "RelativeDocumentMoniker": "AcademyManagementEFProject\\Helpers\\SqlHelper.cs",
@@ -51,16 +51,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AcademyDBContext.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Contexts\\AcademyDBContext.cs",
               "RelativeDocumentMoniker": "AcademyManagementEFProject\\Contexts\\AcademyDBContext.cs",
               "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Contexts\\AcademyDBContext.cs",
               "RelativeToolTip": "AcademyManagementEFProject\\Contexts\\AcademyDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:54:50.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T07:54:50.118Z"
             },
             {
               "$type": "Document",
@@ -70,46 +69,45 @@
               "RelativeDocumentMoniker": "AcademyManagementEFProject\\Models\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Models\\BaseEntity.cs",
               "RelativeToolTip": "AcademyManagementEFProject\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:42:48.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T07:42:48.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Models\\Student.cs",
               "RelativeDocumentMoniker": "AcademyManagementEFProject\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Models\\Student.cs",
               "RelativeToolTip": "AcademyManagementEFProject\\Models\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAC+AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T07:41:17.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Program.cs",
               "RelativeDocumentMoniker": "AcademyManagementEFProject\\Program.cs",
-              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Program.cs*",
-              "RelativeToolTip": "AcademyManagementEFProject\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowCEAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Program.cs",
+              "RelativeToolTip": "AcademyManagementEFProject\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T07:40:22.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Services\\Concretes\\StudentService.cs",
               "RelativeDocumentMoniker": "AcademyManagementEFProject\\Services\\Concretes\\StudentService.cs",
-              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Services\\Concretes\\StudentService.cs",
-              "RelativeToolTip": "AcademyManagementEFProject\\Services\\Concretes\\StudentService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowB4AAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Services\\Concretes\\StudentService.cs*",
+              "RelativeToolTip": "AcademyManagementEFProject\\Services\\Concretes\\StudentService.cs*",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAQwG4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T07:36:09.98Z",
               "EditorCaption": ""

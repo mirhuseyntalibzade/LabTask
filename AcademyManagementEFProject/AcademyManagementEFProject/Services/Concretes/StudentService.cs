@@ -48,7 +48,17 @@ namespace AcademyManagementEFProject.Services.Concretes
 
         public List<Student> GetStudensByEnrollmentDate(int days)
         {
-            throw new NotImplementedException();
+            List<Student> students = studentContext.Students.FromSql($"SELECT * FROM dbo.Students").ToList();
+            //foreach (var item in students)
+            //{
+            //    TimeSpan dateDiff = DateTime.Now() - days
+            //    if (TimeSpan )
+            //    {
+                    
+            //    }
+            //}
+
+            return default;
         }
 
         public Student GetStudentById(int id)
@@ -88,7 +98,7 @@ namespace AcademyManagementEFProject.Services.Concretes
 
         public void UpdateStudent(int id, Student student)
         {
-            var existingStudent = studentContext.Students.FirstOrDefault(s => s.Id == student.Id);
+            Student existingStudent = studentContext.Students.FirstOrDefault(s => s.Id == id);
             if (existingStudent != null)
             {
                 existingStudent.FirstName = student.FirstName;
@@ -98,8 +108,14 @@ namespace AcademyManagementEFProject.Services.Concretes
                 existingStudent.Password = student.Password;
                 existingStudent.EnrollmentDate = student.EnrollmentDate;
                 existingStudent.LastModifiedDate = DateTime.Now;
+                existingStudent.DeletedDate = student.DeletedDate;
+                existingStudent.IsDeleted = student.IsDeleted;
                 
                 studentContext.SaveChanges();
+            }
+            else
+            {
+                Console.WriteLine("Something went wrong");
             }
         }
     }
