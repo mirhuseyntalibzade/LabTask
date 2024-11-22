@@ -1,16 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Pronia_Project.DAL.Contexts;
+using Pronia_Project.DAL;
 using Pronia_Project.Models;
+using Pronia_Project.ViewModels.Home;
 using System;
 
 namespace Pronia_Project.Controllers
 {
     public class HomeController : Controller
     {
+        readonly ProniaDBContext _context;
+        public HomeController(ProniaDBContext proniaDBContext)
+        {
+            _context = proniaDBContext;
+        }
         public IActionResult Index()
         {
-            ProniaDBContext proniaDBContext = new();
             //SliderItem item = new SliderItem()
             //{
             //    Title = "New Plant",
@@ -28,9 +33,13 @@ namespace Pronia_Project.Controllers
             //proniaDBContext.SliderItems.Add(item1);
             //proniaDBContext.SaveChanges();
 
-            List<SliderItem> sliderItems = proniaDBContext.SliderItems.FromSql($"SELECT * FROM SliderItems").ToList();
+            IEnumerable<SliderItem> sliderItems = _context.SliderItems.ToList();
+            HomeVM homeVM = new HomeVM()
+            {
+                SliderItems = sliderItems
+            };
 
-            return View(sliderItems);
+            return View(homeVM);
         }
     }
 }

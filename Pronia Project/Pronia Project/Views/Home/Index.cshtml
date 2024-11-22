@@ -1,12 +1,13 @@
-﻿@using Pronia_Project.Models;
-@model List<SliderItem>
+﻿@using Pronia_Project.ViewModels.Home;
+@using Pronia_Project.Models;
+@model HomeVM
 
       <!-- Begin Slider Area -->
 <div class="slider-area">
     <!-- Main Slider -->
     <div class="swiper-container main-slider swiper-arrow with-bg_white">
         <div class="swiper-wrapper">
-            @foreach (SliderItem item in @Model)
+            @foreach (SliderItem item in @Model.SliderItems)
             { 
             <div class="swiper-slide animation-style-01">
                 <div class="slide-inner style-1 bg-height"

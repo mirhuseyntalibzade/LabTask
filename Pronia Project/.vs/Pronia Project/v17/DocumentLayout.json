@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\dal\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\dal\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\migrations\\proniadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\migrations\\proniadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\dal\\contexts\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\dal\\contexts\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|solutionrelative:pronia project\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95E1F6FE-8CB8-4334-BC14-8899788D99D9}|Pronia Project\\Pronia Project.csproj|c:\\users\\my computer\\source\\repos\\pronia project\\pronia project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,11 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ProniaDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Migrations\\ProniaDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Pronia Project\\Migrations\\ProniaDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Migrations\\ProniaDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Pronia Project\\Migrations\\ProniaDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:47:37.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Pronia Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\appsettings.json",
+              "RelativeToolTip": "Pronia Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T03:29:53.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Program.cs",
+              "RelativeDocumentMoniker": "Pronia Project\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Program.cs",
+              "RelativeToolTip": "Pronia Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:29:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SliderItem.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Models\\SliderItem.cs",
               "RelativeDocumentMoniker": "Pronia Project\\Models\\SliderItem.cs",
@@ -47,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pronia Project\\Views\\_ViewImports.cshtml",
@@ -60,41 +115,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProniaDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\DAL\\Contexts\\ProniaDBContext.cs",
-              "RelativeDocumentMoniker": "Pronia Project\\DAL\\Contexts\\ProniaDBContext.cs",
-              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\DAL\\Contexts\\ProniaDBContext.cs",
-              "RelativeToolTip": "Pronia Project\\DAL\\Contexts\\ProniaDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\DAL\\ProniaDBContext.cs",
+              "RelativeDocumentMoniker": "Pronia Project\\DAL\\ProniaDBContext.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\DAL\\ProniaDBContext.cs",
+              "RelativeToolTip": "Pronia Project\\DAL\\ProniaDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T14:20:57.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Pronia Project\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Pronia Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T14:07:49.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Pronia Project\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Pronia Project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-21T14:13:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Pronia Project\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\Pronia Project\\Pronia Project\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "Pronia Project\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:38:43.747Z",
               "EditorCaption": ""
             }
           ]
