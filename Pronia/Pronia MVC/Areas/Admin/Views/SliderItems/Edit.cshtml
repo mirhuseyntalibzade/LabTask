@@ -1,0 +1,22 @@
+﻿@model DataAccessLayer.Models.SliderItem;
+<div class="container-fluid">
+    <form method="post">
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Slider Item Title</label>
+            <input type="text" class="form-control" asp-for="Title">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Offer" class="form-label">Slider Item Offer</label>
+            <input type="number" class="form-control" asp-for="Offer">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Slider Item Description</label>
+            <input type="text" class="form-control" asp-for="Description">
+        </div>
+        <div class="mb-3">
+            <label asp-for="ImageUrl" class="form-label">Slider Item ImageURL</label>
+            <input type="text" class="form-control" asp-for="ImageUrl">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
