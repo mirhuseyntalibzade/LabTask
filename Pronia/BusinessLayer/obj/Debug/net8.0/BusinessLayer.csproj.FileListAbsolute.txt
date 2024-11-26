@@ -9,3 +9,7 @@ C:\Users\II Novbe\source\repos\Pronia\BusinessLayer\obj\Debug\net8.0\BusinessLay
 C:\Users\II Novbe\source\repos\Pronia\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
 C:\Users\II Novbe\source\repos\Pronia\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\Users\II Novbe\source\repos\Pronia\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\II Novbe\source\repos\Pronia\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\II Novbe\source\repos\Pronia\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\II Novbe\source\repos\Pronia\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\Pronia\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date

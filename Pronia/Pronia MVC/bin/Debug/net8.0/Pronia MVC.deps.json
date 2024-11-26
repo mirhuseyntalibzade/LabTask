@@ -894,6 +894,9 @@
         }
       },
       "BusinessLayer/1.0.0": {
+        "dependencies": {
+          "DataAccessLayer": "1.0.0"
+        },
         "runtime": {
           "BusinessLayer.dll": {
             "assemblyVersion": "1.0.0",

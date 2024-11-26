@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\pronia mvc\\areas\\admin\\views\\slideritems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|solutionrelative:pronia mvc\\areas\\admin\\views\\slideritems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\pronia mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|solutionrelative:pronia mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\pronia mvc\\areas\\admin\\controllers\\slideritemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|solutionrelative:pronia mvc\\areas\\admin\\controllers\\slideritemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\pronia mvc\\areas\\admin\\views\\slideritems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|solutionrelative:pronia mvc\\areas\\admin\\views\\slideritems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC9267A9-F5AB-4AFE-83E3-04A080D522B5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\businesslayer\\services\\concretes\\slideritemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9267A9-F5AB-4AFE-83E3-04A080D522B5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\concretes\\slideritemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\pronia mvc\\areas\\admin\\views\\slideritems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|solutionrelative:pronia mvc\\areas\\admin\\views\\slideritems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\pronia mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|solutionrelative:pronia mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\pronia mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|solutionrelative:pronia mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\pronia mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0F865D-E74E-4844-ADFF-98CF14AAA56D}|Pronia MVC\\Pronia MVC.csproj|solutionrelative:pronia mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4FC6780-895F-461B-9A90-EF74E12B42D2}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\dataaccesslayer\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4FC6780-895F-461B-9A90-EF74E12B42D2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC9267A9-F5AB-4AFE-83E3-04A080D522B5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ii novbe\\source\\repos\\pronia\\businesslayer\\services\\abstractions\\islideritemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9267A9-F5AB-4AFE-83E3-04A080D522B5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\islideritemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Program.cs",
-              "RelativeDocumentMoniker": "Pronia MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Program.cs",
-              "RelativeToolTip": "Pronia MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Pronia MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Pronia MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T16:03:00.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Edit.cshtml",
-              "RelativeToolTip": "Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T15:52:37.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pronia MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pronia MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIkAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T15:40:28.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Index.cshtml",
-              "RelativeToolTip": "Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T15:40:17.961Z",
+              "WhenOpened": "2024-11-26T12:58:35.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Create.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Create.cshtml",
-              "RelativeToolTip": "Pronia MVC\\Areas\\Admin\\Views\\SliderItems\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T15:32:26.355Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pronia MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pronia MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:58:30.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SliderItemsController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Controllers\\SliderItemsController.cs",
               "RelativeDocumentMoniker": "Pronia MVC\\Areas\\Admin\\Controllers\\SliderItemsController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Controllers\\SliderItemsController.cs",
-              "RelativeToolTip": "Pronia MVC\\Areas\\Admin\\Controllers\\SliderItemsController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwD8AAABOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\Pronia MVC\\Areas\\Admin\\Controllers\\SliderItemsController.cs*",
+              "RelativeToolTip": "Pronia MVC\\Areas\\Admin\\Controllers\\SliderItemsController.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:15:45.96Z",
+              "WhenOpened": "2024-11-26T11:34:54.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SliderItem.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\DataAccessLayer\\Models\\SliderItem.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\SliderItem.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\DataAccessLayer\\Models\\SliderItem.cs",
-              "RelativeToolTip": "DataAccessLayer\\Models\\SliderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ISliderItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\BusinessLayer\\Services\\Abstractions\\ISliderItemsService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\ISliderItemsService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\BusinessLayer\\Services\\Abstractions\\ISliderItemsService.cs*",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\ISliderItemsService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:33:51.202Z",
+              "WhenOpened": "2024-11-26T10:02:18.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\BusinessLayer\\Services\\Concretes\\SliderItemsService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Concretes\\SliderItemsService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\BusinessLayer\\Services\\Concretes\\SliderItemsService.cs*",
+              "RelativeToolTip": "BusinessLayer\\Services\\Concretes\\SliderItemsService.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:02:15.406Z",
               "EditorCaption": ""
             }
           ]

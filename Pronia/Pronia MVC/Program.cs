@@ -1,3 +1,5 @@
+using BusinessLayer.Services.Abstractions;
+using BusinessLayer.Services.Concretes;
 using DataAccessLayer.Contexts;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,6 +11,8 @@ builder.Services.AddDbContext<ProniaDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"));
     options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
 });
+
+builder.Services.AddScoped<ISliderItemsService, SliderItemsService>();
 
 var app = builder.Build();
 app.UseStaticFiles();

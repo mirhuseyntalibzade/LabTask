@@ -1,4 +1,5 @@
-﻿using DataAccessLayer.Contexts;
+﻿using BusinessLayer.Services.Abstractions;
+using DataAccessLayer.Contexts;
 using DataAccessLayer.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,14 +8,14 @@ namespace Pronia_MVC.Areas.Admin.Controllers
     [Area("Admin")]
     public class SliderItemsController : Controller
     {
-        readonly ProniaDBContext _context;
-        public SliderItemsController(ProniaDBContext context)
+        readonly ISliderItemsService _sliderItemService;
+        public SliderItemsController(ISliderItemsService sliderItemsService)
         {
-            _context = context;
+            _sliderItemService = sliderItemsService;
         }
         public IActionResult Index()
         {
-            IEnumerable<SliderItem> sliderItems = _context.SliderItems.ToList();
+            IEnumerable<SliderItem> sliderItems = _sliderItemService.GetAllSliderItems();
             return View(sliderItems);
         }
 
@@ -30,26 +31,24 @@ namespace Pronia_MVC.Areas.Admin.Controllers
             {
                 return BadRequest("Something went wrong");
             }
-            _context.SliderItems.Add(sliderItem);
-            _context.SaveChanges();
+            _sliderItemService.CreateSliderItem(sliderItem);
             return RedirectToAction("Index");
         }
 
         public IActionResult Delete(int Id)
         {
-            SliderItem deletedItem = _context.SliderItems.Find(Id);
+            SliderItem deletedItem = _sliderItemService.FindSliderItem(Id);
             if (deletedItem == null)
             {
                 return NotFound("Something went wrong");
             }
-            _context.Remove(deletedItem);
-            _context.SaveChanges();
+            _sliderItemService.DeleteSliderItem(deletedItem);
             return RedirectToAction("Index");
         }
 
         public IActionResult Edit(int Id)
         {
-            SliderItem sliderItem = _context.SliderItems.Find(Id);
+            SliderItem sliderItem = _sliderItemService.FindSliderItem(Id);
             if (sliderItem == null)
             {
                 return NotFound("Something went wrong");
@@ -61,7 +60,7 @@ namespace Pronia_MVC.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Edit(SliderItem sliderItem)
         {
-            SliderItem currentItem = _context.SliderItems.Find(sliderItem.Id);
+            SliderItem currentItem= _sliderItemService.FindSliderItem(sliderItem.Id);
             if (currentItem == null)
             {
                 return NotFound("Something went wrong");
@@ -69,8 +68,7 @@ namespace Pronia_MVC.Areas.Admin.Controllers
             if (!ModelState.IsValid) {
                 return BadRequest("Something went wrong");
             }
-            _context.SliderItems.Update(sliderItem);
-            _context.SaveChanges();
+            _sliderItemService.EditSliderItem(sliderItem);
             return RedirectToAction("Index");
         }
     }

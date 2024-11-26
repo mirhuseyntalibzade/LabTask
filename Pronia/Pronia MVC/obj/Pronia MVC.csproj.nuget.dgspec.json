@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\II Novbe\\source\\repos\\Pronia\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\II Novbe\\source\\repos\\Pronia\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
